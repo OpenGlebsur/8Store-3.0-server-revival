@@ -1,0 +1,99 @@
+  {
+                Id = "1",
+                Name = "Cut The Rope",
+                Publisher = "ZeptoLab",
+                Version = "1.0.0.0",
+                DownloadUrl = "https://dankassassin368.com/Stuff/APPX/Retiled%20Project/Apptravaganza!/Cut%20The%20Rope/8.1/x86/ZeptoLabUKLimited.CutTheRope_1.2.0.43_x86__sq9zxnwrk84pj.appx",
+                IconUrl = "https://is2-ssl.mzstatic.com/image/thumb/Purple2/v4/57/2e/c3/572ec341-c56a-00c6-7486-fe80c30d709c/pr_source.png/0x0ss-85.jpg",
+                Description = "Cut the Rope is a physics-based puzzle video game developed by ZeptoLab and published by Chillingo for iOS, Android, Windows Phone, web browsers, Nintendo DSi, and Nintendo 3DS. The game was succeeded by Cut the Rope: Experiments in 2011 while a direct sequel, Cut the Rope 2, was released in 2013.",
+                Featured = false,
+            
+            },
+ {
+                Id = "2",
+                Name = "YouTube",
+                Publisher = "LegacyProjects",
+                Version = "1.0.0.2",
+                DownloadUrl = "http://legacyprojects.ru/youtube/metro/YouTube.Windows_1.0.0.2_AnyCPU.appxbundle",
+                IconUrl = "https://newvintage.org/wp-content/uploads/2021/03/youtube_web.jpeg",
+                Description = "YouTube client based on YouTube API Legacy https://github.com/zemonkamin/ytapilegacy .",
+                Featured = false,
+            },
+{
+                Id = "3",
+                Name = "Twitter (Bluetweety)",
+                Publisher = "migbrunluz",
+                Version = "1.1.13.8",
+                DownloadUrl = "https://dankassassin368.com/Stuff/APPX/Retiled%20Project/Apptravaganza!/Twitter%20(Bluetweety)/9E2F88E3.Twitter_1.1.13.8_x86__wgeqdkkx372wm.appx",
+                IconUrl = "http://images.weserv.nl/?url=https://i.ibb.co/WjnmYZz/Logo-scale-180.png",
+                Description = "Twitter for Windows 8 offers a redesigned app for real-time updates and self-expression with support for multiple accounts.",
+                Featured = false,
+            },
+     {
+                Id = "4",
+                Name = "OpenTracks Desktop",
+                Publisher = "ChockingNetDude",
+                Version = "0.3.0",
+                DownloadUrl = "https://dankassassin368.com//Stuff//APPX//Windows%208.1%20APPX%20Files//Apps//OpenTracks%20Desktop//OpenTracksDesktop_B3.appx",
+                IconUrl = "https://i.ibb.co//Rkbr6LgC//757de76ad56f84e8eb563b9629468167.png",
+                Description = "Your best Online Music App!",
+                Featured = false,
+                ReviewStats = new ReviewStats { AverageRating = 0, ReviewCount = 0 }
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
