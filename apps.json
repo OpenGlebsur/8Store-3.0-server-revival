@@ -2000,7 +2000,7 @@
         "featured": false
     },
     {
-        "id": "31",
+        "id": "201",
         "name": "Movie Moments (2014)",
         "publisher": "Microsoft",
         "version": "2014.411.2144.1035",
@@ -2010,7 +2010,7 @@
         "featured": false
     },
     {
-        "id": "32",
+        "id": "202",
         "name": "Bing TV",
         "publisher": "Microsoft",
         "version": "1.0.1.1.0",
@@ -2020,7 +2020,7 @@
         "featured": false
     },
     {
-        "id": "72",
+        "id": "203",
         "name": "Dumb Ways to Die 2: The Games",
         "publisher": "METRO TRAINS MELBOURNE",
         "version": "1.1.0.0",
@@ -2030,7 +2030,7 @@
         "featured": false
     },
     {
-        "id": "76",
+        "id": "204",
         "name": "Fruit Ninja",
         "publisher": "Halfbrick Studios",
         "version": "1.8.1.66",
@@ -2040,7 +2040,7 @@
         "featured": true
     },
     {
-        "id": "78",
+        "id": "205",
         "name": "Microsoft Solitaire Collection",
         "publisher": "Microsoft Studios & Arkadium",
         "version": "2.11.1807.1002",
@@ -2050,7 +2050,7 @@
         "featured": false
     },
     {
-        "id": "89",
+        "id": "206",
         "name": "Crossy Road",
         "publisher": "YodoGames",
         "version": "1.1.3.0",
@@ -2060,7 +2060,7 @@
         "featured": false
     },
     {
-        "id": "90",
+        "id": "207",
         "name": "TOP SPEED DRAG RACING",
         "publisher": "T-BULL",
         "version": "1.3.0.0",
@@ -2070,7 +2070,7 @@
         "featured": true
     },
     {
-        "id": "91",
+        "id": "208",
         "name": "Near me",
         "publisher": "Microsoft",
         "version": "6.3.8102",
@@ -2080,7 +2080,7 @@
         "featured": false
     },
     {
-        "id": "96",
+        "id": "209",
         "name": "Free Rides game for Lenovo",
         "publisher": "Lenovo.INC",
         "version": "1.0.0.0",
@@ -2090,7 +2090,7 @@
         "featured": false
     },
     {
-        "id": "97",
+        "id": "210",
         "name": "Microsoft Minesweeper",
         "publisher": "Microsoft",
         "version": "1.0.0.0",
@@ -2100,7 +2100,7 @@
         "featured": true
     },
     {
-        "id": "98",
+        "id": "211",
         "name": "Asphalt Xtreme (UNMODIFIED)",
         "publisher": "Gameloft",
         "version": "1.7.3.8",
@@ -2110,7 +2110,7 @@
         "featured": true
     },
     {
-        "id": "99",
+        "id": "212",
         "name": "Build 2012",
         "publisher": "Microsoft",
         "version": "1.0.0.2.4",
@@ -2120,7 +2120,7 @@
         "featured": false
     },
     {
-        "id": "100",
+        "id": "213",
         "name": "SUPER PHOTO",
         "publisher": "Free softwares",
         "version": "1.6.0.2",
@@ -2130,7 +2130,7 @@
         "featured": false
     },
     {
-        "id": "101",
+        "id": "214",
         "name": "Zero gravity",
         "publisher": "Microsoft",
         "version": "1.0.0.0",
@@ -2140,7 +2140,7 @@
         "featured": false
     },
     {
-        "id": "102",
+        "id": "215",
         "name": "My planet",
         "publisher": "UNKNOWN",
         "version": "1.0.0.0",
@@ -2150,7 +2150,7 @@
         "featured": false
     },
     {
-        "id": "103",
+        "id": "216",
         "name": "Visual C++ Libres for Consumer Preview (X86)",
         "publisher": "Microsoft",
         "version": "110",
@@ -2160,7 +2160,7 @@
         "featured": false
     },
     {
-        "id": "104",
+        "id": "217",
         "name": "Microsoft Visual C++ Libres (VCLibs) 120.0.21005 (X64)",
         "publisher": "Microsoft",
         "version": "120",
@@ -2170,7 +2170,7 @@
         "featured": false
     },
     {
-        "id": "105",
+        "id": "218",
         "name": "Windows Javascript (9200)",
         "publisher": "Microsoft",
         "version": "9200",
@@ -2180,7 +2180,7 @@
         "featured": false
     },
     {
-        "id": "106",
+        "id": "219",
         "name": "Piano (8102)",
         "publisher": "Microsoft",
         "version": "1.1.1.0",
@@ -2190,7 +2190,7 @@
         "featured": false
     },
     {
-        "id": "107",
+        "id": "220",
         "name": "MoPod",
         "publisher": "Microsoft",
         "version": "8.0.8102",
@@ -2200,7 +2200,7 @@
         "featured": false
     },
     {
-        "id": "108",
+        "id": "221",
         "name": "Adobe Reader Touch",
         "publisher": "Adobe systems incorporated",
         "version": "1.3",
@@ -2210,7 +2210,7 @@
         "featured": false
     },
     {
-        "id": "109",
+        "id": "222",
         "name": "Flipboard",
         "publisher": "Flipboard.inc",
         "version": "2017.714.251.0",
@@ -2220,7 +2220,7 @@
         "featured": false
     },
     {
-        "id": "136",
+        "id": "223",
         "name": "VLC for Windows 8",
         "publisher": "VideoLAN",
         "version": "3.1.1.0",
@@ -2230,7 +2230,7 @@
         "featured": false
     },
     {
-        "id": "143",
+        "id": "224",
         "name": "Periodic Table (Chemistry)",
         "publisher": "Asparion",
         "version": "2.4.2.43",
@@ -2240,13 +2240,33 @@
         "featured": false
     },
     {
-        "id": "181",
+        "id": "225",
         "name": "Despicable Me: Minion Rush",
         "publisher": "GAMELOFT SA",
         "version": "4.1.4.1",
         "description": "RIP to Minion Rush on Windows Store 2013-2025",
         "downloadUrl": "https:\/\/gjhkyio.heliohost.us\/files\/gameloftsa.despicablememinionrush_4.1.4.1_x86__0pp20fcewvvtj.appx",
         "iconUrl": "https:\/\/web.archive.org\/web\/20160616085832im_\/https:\/\/store-images.s-microsoft.com\/image\/apps.9899.9007199266280866.4360ecc5-0e82-44b3-9051-0dd45e14f442.d7086130-9135-45e8-813a-98f670887507?w=96&h=96&q=60",
+        "featured": false
+    },
+    {
+        "id": "226",
+        "name": "Chrome Metro ",
+        "publisher": "ReOpenGlebsur",
+        "version": "1.0.0.0",
+        "description": "the port of chrome",
+        "downloadUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/raw/refs/heads/main/ChromeUWP_1.0.0.0_AnyCPU%20(2).appx",
+        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo.scale-100.png?raw=true",
+        "featured": false
+    },
+        {
+        "id": "227",
+        "name": "ReWindowseather",
+        "publisher": "ReOpenGlebsur",
+        "version": "1.0.0.0",
+        "description": "Bro forgot make icon and use chrome icon ",
+        "downloadUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/raw/refs/heads/main/ReWinWeather.Windows_1.0.0.0_AnyCPU_Debug.appx",
+        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo.scale-100.png?raw=true",
         "featured": false
     }
 ]
