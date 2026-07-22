@@ -2261,7 +2261,7 @@
     },
         {
         "id": "227",
-        "name": "ReWindoweather",
+        "name": "ReWindowsWeather",
         "publisher": "ReOpenGlebsur",
         "version": "1.0.0.0",
         "description": "Bro forgot make icon and use chrome icon ",
