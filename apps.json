@@ -1391,10 +1391,10 @@
     },
     {
         "id": "140",
-        "name": "SCP Foundation",
-        "publisher": "SCP corporation",
-        "version": "1.0.0.0",
-        "description": "SCP foundation: an appp with a lot of lost cases",
+        "name": "App id 140 unknown app",
+        "publisher": "???",
+        "version": "0",
+        "description": "App die",
         "downloadUrl": "https:\/\/download.ru\/g\/GxBxo8PX\/vq-Ck9v1Sf48s9eY3qR8WQ\/1767187693?inline=false",
         "iconUrl": "https:\/\/files.catbox.moe\/5mu52i.png",
         "featured": false
@@ -1906,7 +1906,7 @@
         "version": "3.0.4.212",
         "description": "Check sports news, scores, standings and others with MSN Sports. This app was patched with newRetiled, credit to migbrunluz.",
         "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Retiled%20Project\/newRetiled\/x64\/MSN\/Win8.1%20%282014u%29\/Sports\/Microsoft.BingSports_3.0.4.212_x64__8wekyb3d8bbwe.appx",
-        "iconUrl": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/2\/2d\/Bingsports.png",
+        "iconUrl": "https://github.com/helloworld7689/8Store-png-apps/blob/main/Bingsports.webp",
         "featured": false
     },
     {
