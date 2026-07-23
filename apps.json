@@ -2265,7 +2265,7 @@
         "publisher": "ReOpenGlebsur",
         "version": "1.0.0.0",
         "description": "Bro forgot make icon and use chrome icon ",
-        "downloadUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/raw/refs/heads/main/ReWinWeather.Windows_1.0.0.0_AnyCPU_Debug.appx",
+        "downloadUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/ReWinWeather.Windows_1.0.0.0_AnyCPU_Debug.appx",
         "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo.scale-100.png?raw=true",
         "featured": false
     },
