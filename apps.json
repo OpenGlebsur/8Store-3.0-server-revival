@@ -25,7 +25,7 @@
         "publisher": "Microsoft Corporation",
         "version": "1.0.0.0",
         "description": "Literally a news app from Microsoft",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Retiled%20Project\/newRetiled\/x64\/MSN\/Win8.1%20%282014u%29\/News\/Microsoft.BingNews_3.0.4.213_x64__8wekyb3d8bbwe.appx",
+        "downloadUrl": "https://dl.retiled.xyz/newRetiled/x86/MSN/Win8.1%20RTM%20%282014u%29/News/Microsoft.BingNews_3.0.4.213_x86__8wekyb3d8bbwe.appx",
         "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo2.scale-100.png?raw=true",
         "featured": false
     },
@@ -34,7 +34,7 @@
         "name": "MSN Weather (newRetiled)",
         "publisher": "Microsoft",
         "version": "1.0.0.0",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Retiled%20Project\/newRetiled\/x64\/MSN\/Win8.1%20%282014u%29\/Weather\/Microsoft.BingWeather_3.0.4.214_x64__8wekyb3d8bbwe.appx",
+        "downloadUrl": "https://dl.retiled.xyz/newRetiled/8.1%20MSN%20apps%20from%20Windows%2010%20Builds/9926/Weather/Microsoft.BingWeather_3.0.4.249_x86__8wekyb3d8bbwe.appx",
         "iconUrl": "https://github.com/helloworld7689/8Store-png-apps/blob/main/Weather-win8.svg",
         "description": "Tired of going out only to find it raining, and wishing you knew the forecast? Download MSN Weather and enjoy!",
         "featured": false
@@ -295,7 +295,7 @@
         "publisher": "Microsoft",
         "version": "3.0.0.78",
         "description": "Live",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Retiled%20Project\/newRetiled\/x64\/Bing\/Win8.1%20RTM\/v3.0.1\/Health%20&%20Fitness\/Microsoft.BingHealthAndFitness_3.0.1.176_x64__8wekyb3d8bbwe.appx",
+        "downloadUrl" "https://dl.retiled.xyz/newRetiled/8.1%20MSN%20apps%20from%20Windows%2010%20Builds/9926/Health%20&%20Fitness/Microsoft.BingHealthAndFitness_3.0.4.254_x86__8wekyb3d8bbwe.appx",
         "iconUrl": "https://github.com/helloworld7689/8Store-png-apps/blob/main/Healthfitness_Win81.svg",
         "featured": false
     },
@@ -845,7 +845,7 @@
         "publisher": "Microsoft",
         "version": "2.2",
         "description": "Play and explore",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Microsoft%20Apps\/Xbox%20App\/Microsoft.XboxApp_2.2.1501.5009_x64__8wekyb3d8bbwe.appx",
+        "downloadUrl": "https://dl.retiled.xyz/newRetiled/8.1%20MSN%20apps%20from%20Windows%2010%20Builds/9926/Xbox%20Live%20Games%20App/Microsoft.XboxLIVEGames_2.0.20.0_x86__8wekyb3d8bbwe.appx",
         "iconUrl": "https:\/\/th.bing.com\/th\/id\/R.84fc138da5c22951ae5e8f5fb1939e1c?rik=WkF5hbcRXdXjeQ&pid=ImgRaw&r=0",
         "featured": true
     },
@@ -1315,7 +1315,7 @@
         "publisher": "Microsoft Corporation",
         "version": "3.0.4.212",
         "description": "Use MSN Food & Drink for searching recipes, wines, cocktails, managing your daily meal and even more! This app was patched with newRetiled, credit to migbrunluz.",
-        "downloadUrl": "https://dl.retiled.xyz/newRetiled/Languages/Microsoft.BingFoodAndDrink_3.0.4.212_neutral_split.language-pt_8wekyb3d8bbwe.appx",
+        "downloadUrl": "https://dl.retiled.xyz/newRetiled/8.1%20MSN%20apps%20from%20Windows%2010%20Builds/9926/Food%20&%20Drink/Microsoft.BingFoodAndDrink_3.0.4.253_x86__8wekyb3d8bbwe.appx",
         "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo4.scale-100.png",
         "featured": false
     },
