@@ -2231,12 +2231,12 @@
     },
     {
         "id": "224",
-        "name": "Periodic Table (Chemistry)",
+        "name": "El chavo juego",
         "publisher": "Asparion",
         "version": "2.4.2.43",
-        "description": "This is a simple periodic table of the elements. It shows the different groups in different colors and lets you zoom in and out. It displays the atomic mass, the electronegativity, the electron configuration and much more for each element. There is also a search function included. The perfect companion for school or professional life.",
-        "downloadUrl": "https:\/\/download.ru\/g\/3vWM5ycc\/uCVoNy4aV1MsSTg3OHCgew\/1767187701?inline=false",
-        "iconUrl": "https:\/\/web.archive.org\/web\/20141231052638im_\/http:\/\/wscont1.apps.microsoft.com\/winstore\/1x\/1cfa069d-e661-4185-86fc-193f2931cbc4\/Icon.254521.png",
+        "description": "Explore El Chavo's neighborhood in this game",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/El%20Chavo%20Juego/",
+        "iconUrl": "???",
         "featured": false
     },
     {
@@ -2244,39 +2244,19 @@
         "name": "Despicable Me: Minion Rush",
         "publisher": "GAMELOFT SA",
         "version": "4.1.4.1",
-        "description": "RIP to Minion Rush on Windows Store 2013-2025",
-        "downloadUrl": "https:\/\/gjhkyio.heliohost.us\/files\/gameloftsa.despicablememinionrush_4.1.4.1_x86__0pp20fcewvvtj.appx",
-        "iconUrl": "https:\/\/web.archive.org\/web\/20160616085832im_\/https:\/\/store-images.s-microsoft.com\/image\/apps.9899.9007199266280866.4360ecc5-0e82-44b3-9051-0dd45e14f442.d7086130-9135-45e8-813a-98f670887507?w=96&h=96&q=60",
+        "description": "???",
+        "downloadUrl":https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/MinionRush/
+        "iconUrl": "???",
         "featured": false
-    },
-    {
+    }
+ {
         "id": "226",
-        "name": "Chrome Metro ",
-        "publisher": "ReOpenGlebsur",
-        "version": "1.0.0.0",
-        "description": "the port of chrome",
-        "downloadUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/raw/refs/heads/main/ChromeUWP_1.0.0.0_AnyCPU%20(2).appx",
-        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo.scale-100.png?raw=true",
-        "featured": false
-    },
-        {
-        "id": "227",
-        "name": "ReWindowsWeather",
-        "publisher": "ReOpenGlebsur",
-        "version": "1.0.0.0",
-        "description": "Bro forgot make icon and use chrome icon ",
-        "downloadUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/ReWinWeather.Windows_1.0.0.0_AnyCPU_Debug.appx",
-        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo.scale-100.png?raw=true",
-        "featured": false
-    },
-            {
-        "id": "228",
         "name": "SCP foundation",
         "publisher": "SB Moon",
         "version": "2025.0.0.0.",
         "description": "This app is confidential and only for SCP Foundation members. I know everything here is scary, but we must continue investigating the anomalies.  ",
         "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/SCPFoundation/",
-        "iconUrl": "https://github.com/helloworld7689/8Store-png-apps/blob/main/ac977e27892c540d6d666afa74cc1b04.webp",
+        "iconUrl": "???",
         "featured": true
     }
 ]
