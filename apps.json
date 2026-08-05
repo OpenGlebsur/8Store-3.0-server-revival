@@ -287,7 +287,7 @@
         "description": "Listen to your favorite radio station and enjoy your favorite drink. ",
         "downloadUrl": "https://dankassassin368.com/Stuff/APPX/Retiled%20Project/Apptravaganza%21/Coca-Cola%20FM%20%28with%20the%20new%20logo%29/iltsoft.CocaColaFM_1.0.2.12_neutral__tr",
         "iconUrl": "https:\/\/play-lh.googleusercontent.com\/XHxg6r6GeS5ru-0_-a2AaVkJrEyu9cKg_ubHPud7LEcXmWGgvCXt7UHRV7n0qYIcIcI",
-        "featured": "false"
+        "featured": false
         
     },
       {
@@ -588,7 +588,7 @@
         "description": "vine.co client (Patched to ivy.a1429.lol)",
         "downloadUrl": "",
         "iconUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e0\/Vine_logo.svg\/250px-Vine_logo.svg.png?20160108020219",
-        "featured": "false"
+        "featured": false
     },
     {
         "id": "60",
