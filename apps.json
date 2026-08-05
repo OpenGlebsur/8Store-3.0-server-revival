@@ -1,12 +1,12 @@
 [
     {
         "id": "1",
-        "name": "OpenTracks Desktop",
-        "publisher": "ChockingNetDude",
-        "version": "0.3.0",
-        "description": "Your best Online Music App!",
-        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/OpenTracks%20Desktop/OpenTracksDesktop_B3.appx",
-        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo.scale-100.png?raw=true",
+        "name": "MetroMaps",
+        "publisher": "Drayden and Miguel",
+        "version": "1.0.0",
+        "description": "Your best Online Maps app!",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/All%20DrayApps%20patched%20to%20remove%20update%20check/MetroMaps/MetroMaps1.0.0.0.appx",
+        "iconUrl": "",
         "featured": false
     },
     {
@@ -14,7 +14,7 @@
         "name": "Fresh Paint",
         "publisher": "Microsoft",
         "version": "2.0.15133",
-        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Fresh%20Paint/Microsoft.FreshPaint_8wekyb3d8bbwe.appx",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/FreshPaint/",
         "iconUrl": "https:\/\/store-images.microsoft.com\/image\/apps.37291.9007199266251806.241e6a77-946b-48f7-8269-e8d414751b65.edfec239-dd87-4ebd-9335-41cf617cebea",
         "description": "Best Paint app!",
         "featured": false
@@ -44,17 +44,17 @@
         "name": "EURONEWS",
         "publisher": "euronews.com",
         "version": "1.0.0.2",
-        "downloadUrl": "https:\/\/download.ru\/g\/7bOzBMV4\/xHQWMlkdpo98ZQwkVu2sEA\/1767185398?inline=false",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/Euronews%20FR/30181HamdiKahloun.EuronewsFR_1.0.1.0_neutral__8crbc5ssn0c0c.appx",
         "iconUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/93\/Euronews_logo.svg\/1200px-Euronews_logo.svg.png",
         "description": "App for https:\/\/www.euronews.com , no longer works (Offline), archive purpose only",
         "featured": false
     },
     {
         "id": "6",
-        "name": "Netflix (WinRT)",
+        "name": "Netflix",
         "publisher": "Netflix.INC",
         "version": "4.1.5",
-        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Netflix/4DF9E0F8.Netflix_2.22.0.39_x86__mcm4njqhnhss8.appx",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Netflix/",
         "iconUrl": "https:\/\/platform.theverge.com\/wp-content\/uploads\/sites\/2\/chorus\/uploads\/chorus_asset\/file\/6678919\/10478570_10152214521608870_2744465531652776073_n.0.png",
         "description": "Movie Streaming Platform",
         "featured": false
@@ -64,7 +64,7 @@
         "name": "AccuWeather",
         "publisher": "AccuWeather",
         "version": "2.1.7.2",
-        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/AccuWeather/",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/AccuWeather/AccuWeather%28x86%29.appx",
         "iconUrl": "https:\/\/www.accuweather.com\/images\/components\/core\/base-image-color.jpg",
         "description": "Weather forecast application",
         "featured": true
@@ -154,7 +154,7 @@
         "name": "CNN for Windows 8",
         "publisher": "Discovery",
         "version": "1.2.3.0",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/CNN%20App%20for%20Windows\/588E6FFA.CNNAppforWindows_1.2.3.0_neutral__cs8eyncph15zy.appx",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/CNN%20App%20for%20Windows/588E6FFA.CNNAppforWindows_1.2.3.0_neutral__cs8eyncph15zy.appx",
         "iconUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fb\/Cnn_logo_red_background.png",
         "description": "Discovery and TLC content",
         "featured": false
@@ -245,7 +245,7 @@
         "publisher": "Coca-Cola Latin America",
         "version": "3.0.0.3",
         "description": "Coca-Cola FM faz seu dia ser mais feliz. Com o aplicativo voc\u00ea pode ouvir os melhores sucessos na r\u00e1dio e ainda pode mostrar para todos seus amigos as m\u00fasicas que est\u00e1 ouvindo. Basta compartilhar nas redes sociais e espalhar felicidades. Baixe-o gratuitamente agora mesmo.",
-        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/Coca-Cola%20FM%20%28with%20the%20new%20logo%29/iltsoft.CocaColaFM_1.0.2.12_neutral__trjevbbeqqmgg.appx",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/Coca-ColaFM/Coca-ColaFM.appx",
         "iconUrl": "https:\/\/store-images.s-microsoft.com\/image\/apps.37607.9007199266243566.a07fbd5f-3680-46c4-958d-7a884fa8a5f3.55c5c739-d22c-40eb-bfbe-246ac5f68211?h=310",
         "featured": false
     },
