@@ -588,7 +588,7 @@
         "description": "vine.co client (Patched to ivy.a1429.lol)",
         "downloadUrl": "",
         "iconUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e0\/Vine_logo.svg\/250px-Vine_logo.svg.png?20160108020219",
-        "featured": false
+        "featured": "false"
     },
     {
         "id": "60",
