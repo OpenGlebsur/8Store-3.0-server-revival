@@ -75,17 +75,17 @@
         "publisher": "JSCLux",
         "version": "1.4.0.1",
         "description": "Vines, Vines, Vines! REQUIRES WSAPPBAK TO REPACK!",
-        "downloadUrl": "http:\/\/gjhkyio.0hi.me\/files\/JSCLux.24_1.4.0.1_neutral__jsvy6ch7bwvdt.Appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/m.media-amazon.com\/images\/I\/61DI4PVlzwL.png",
         "featured": false
     },
     {
         "id": "9",
-        "name": "ADS: Upload your apps to 8Store now!",
+        "name": "???",
         "publisher": "Unknown",
-        "version": "https:\/\/wp7revival.atwebpages.com\/index.html",
+        "version": "",
         "downloadUrl": "",
-        "iconUrl": "https:\/\/www.iconsdb.com\/icons\/preview\/white\/shopping-bag-2-xxl.png",
+        "iconUrl": "",
         "description": "",
         "featured": false
     },
@@ -94,7 +94,7 @@
         "name": "Adobe Photoshop Express",
         "publisher": "Adobe",
         "version": "1.2.1.17",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Adobe%20Photoshop%20Express\/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/i.ibb.co\/HTTsRHq5\/Screenshot-2025-12-25-232324.png",
         "description": "Photo editing application",
         "featured": false
@@ -104,7 +104,7 @@
         "name": "AfterLight",
         "publisher": "AfterlightCollective.Inc",
         "version": "2.5.0.0",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/AfterLight\/AfterlightCollectiveInc.Afterlight_2.5.0.0_x64__7cyy8pbdjgbwj.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/store-images.microsoft.com\/image\/apps.40967.9007199266345539.4466e315-7c06-4c87-9bcc-979e81bced82.7d8a8ed3-1158-4652-920c-74c67170715a",
         "description": "Photo editing app",
         "featured": false
@@ -114,7 +114,7 @@
         "name": "Amazon",
         "publisher": "Amazon.Inc",
         "version": "1.0.4.0",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Amazon\/Amazon.com.Amazon_1.0.4.0_neutral__343d40qqvtj1t.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/i.pinimg.com\/736x\/29\/f6\/41\/29f641b507ccb60bb7a62a830b988736.jpg",
         "description": "Shopping application",
         "featured": false
@@ -124,7 +124,7 @@
         "name": "BBC Cookbook",
         "publisher": "BBC",
         "version": "2025.0.0.0",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/BBC%20Cookbook\/BBCWorldwideLtd.BBCGoodFoodHealthyrecipescookbook_2025.0.0.0_neutral_~_g2s5c4trewyqj.appxbundle",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSnFZUp0qEqEztvh2nDnIvPM3f5YK2C6FXOwg&s",
         "description": "Cooking recipes from BBC",
         "featured": false
@@ -134,7 +134,7 @@
         "name": "Cha Cha Push Notification",
         "publisher": "Cha Cha",
         "version": "1.0.0.32",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Cha%20Cha%20Push%20Notification\/ChaChaSearch.ChaChaPushNotification_1.0.0.32_neutral__62vv7yjt7tgyp.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/i.ibb.co\/ds2qBmYX\/Screenshot-2025-12-25-233542.png",
         "description": "Notification service",
         "featured": false
@@ -144,7 +144,7 @@
         "name": "Charming Reddit",
         "publisher": "Paxileo",
         "version": "1.0.0.2",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Charming%20Reddit\/43521Paxileo.CharmingReddit_1.0.0.2_neutral__0e8a5yzfqazy0.Appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/www.ilovefreesoftware.com\/wp-content\/uploads\/2014\/02\/5freeredditappsforWindows8.png",
         "description": "Reddit client application",
         "featured": false
@@ -164,7 +164,7 @@
         "name": "Dailymotion",
         "publisher": "Dailymotion",
         "version": "2.0.1.63",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Dailymotion\/DailymotionSA.Dailymotion_2.0.1.63_x64__6dqnvyezrysvy.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/27\/Logo_dailymotion.png",
         "description": "Video sharing platform",
         "featured": false
@@ -174,7 +174,7 @@
         "name": "eBay",
         "publisher": "eBay",
         "version": "1.1.1.53",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/eBay\/eBayInc.eBay_1.1.1.53_neutral__1618n3s9xq8tw.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/images.seeklogo.com\/logo-png\/26\/1\/ebay-logo-png_seeklogo-269395.png",
         "description": "Online marketplace",
         "featured": true
@@ -211,11 +211,11 @@
     },
     {
         "id": "22",
-        "name": "Pblico",
-        "publisher": "UNKNOWN",
-        "version": "1.0.0.1",
-        "description": "publico!",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Pblico\/0EF5552C.Pblico_1.1.1.66_neutral__ygf8fj1dswwxg.appx",
+        "name": "Halo spartan (Soon)",
+        "publisher": "Xbox Studios",
+        "version": "???",
+        "description": "????",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/cdn-1.webcatalog.io\/catalog\/publico\/publico-icon-unplated.png",
         "featured": false
     },
@@ -225,7 +225,7 @@
         "publisher": "Microsoft Game Studios",
         "version": "1.1.37.1",
         "description": "Doritos Crash Course is a fast-paced, funny, obstacle course game show for your Avatar to compete against your friends and family over XboxLive.",
-        "downloadUrl": "http:\/\/doritoscrashcourse.is-best.net\/Doritos.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/assets-prd.ignimgs.com\/2022\/03\/08\/crashcourse-1646781975516.jpg",
         "featured": false
     },
@@ -235,7 +235,7 @@
         "publisher": "Cyberlink",
         "version": "0.5.1.1",
         "description": "App to introduce you to the Villager Series!",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/PowerDVD\/CyberLinkCorp.id.PowerDVDforLenovoIdea_1.1.1821.18261_x86__hgg5mn3xps74a.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTzDo4mPkSr1X2az4qBuVfwKEkzV5jY5mNHVA&s",
         "featured": false
     },
@@ -255,7 +255,7 @@
         "publisher": "TripAdvisorLLC",
         "version": "1.2.0.24",
         "description": "Millions of traveller reviews, photos and maps from TripAdvisor. Book your best trip, every trip. With over 250 million reviews and opinions, from travellers all around the world, TripAdvisor makes it easy to find the lowest airfare, the best hotels, great restaurants and fun things to do, wherever you go. And booking options for hotels, restaurants and flights are just a tap away.",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/TripAdvisor%20Hotels,%20Flights%20and%20Restaurants\/TripAdvisorLLC.TripAdvisorHotelsFlightsRestaurants_1.2.0.24_neutral__qj0v5chwq8f2g.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/store-images.s-microsoft.com\/image\/apps.63610.9007199266246392.843187d5-46ac-4cae-9306-df7623f2379e.2161b2c9-651c-48a9-bb92-48f5285cde1b?w=100&h=100&q=60",
         "featured": false
     },
@@ -265,7 +265,7 @@
         "publisher": "Disney",
         "version": "1.1.2.39",
         "description": "Get the GAME OF THE YEAR award-winning puzzler!  Help Swampy by guiding water to his broken shower. Each level is a challenging physics-based puzzle with amazing life-like mechanics. Cut through dirt to guide fresh water, dirty water, toxic water, steam, and ooze through increasingly challenging scenarios! Every drop counts! \u2022 Original Stories & Characters \u2013 Play through 4 unique stories featuring Swampy, Allie, Cranky and Mystery Duck. That\u2019s over 500 amazing puzzles! \u2022 Innovative Mechanic \u2013 See water in various forms and use your creativity to solve the puzzles \u2013 totally stimulating! \u2022 Collectibles, Challenges, and Bonus Levels \u2013 Collect special items uniquely designed for each character and complete cool challenges to unlock bonus levels! \u201cTri-Duck\u201d each level for ultimate bragging rights!  SWAMPY\u2019S STORY Swampy the Alligator lives in the sewers under the city. He\u2019s a little different from the other alligators \u2013 he\u2019s curious, friendly, and loves taking a nice long shower after a hard day at work. But there\u2019s trouble with the pipes and Swampy needs your help getting water to his shower!  ALLIE\u2019S STORY Allie is the sewer's most creative alligator. Her quirky spirit and artistic talents made her a star. Now, the gators have crafted a one-of-a-kind steam-powered musical instrument, and can't wait to hear her play it! Help Allie get the steam she needs and enjoy her take on classic Disney tunes.  CRANKY\u2019S STORY Cranky, a real gator\u2019s gator, has a big appetite and will eat anything, from tires to old fish bones. But he refuses to eat his greens! Use the dirty purple water to clear the algae on Cranky\u2019s plate so he can gobble up his \u201cfood\u201d.  MYSTERY DUCK Catch this fancy teleporting Mystery Duck in this special chapter and hint hint - timing is everything!  Some stories may require a small additional price but try the FREE levels today!",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.0%20APPX%20Files\/Games\/Where%27s%20My%20Water\/Disney.WheresMyWater_1.1.2.39_x86__6rarf9sa4v8jt.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/store-images.s-microsoft.com\/image\/apps.12799.9007199266251405.18e5ce46-3542-419f-a2c2-78173b7dcf9a.1503dec1-fbdc-48fe-b277-8f9e119026a3?mode=scale&q=90&h=270&w=270&background=%231F5497",
         "featured": false
     },
@@ -275,7 +275,7 @@
         "publisher": "ZeptoLab",
         "version": "1.2.0.23",
         "description": "Cut the Rope is a physics-based puzzle video game developed by ZeptoLab and published by Chillingo for iOS, Android, Windows Phone, web browsers, Nintendo DSi, and Nintendo 3DS. The game was succeeded by Cut the Rope: Experiments in 2011 while a direct sequel, Cut the Rope 2, was released in 2013.",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Retiled%20Project\/Apptravaganza!\/Cut%20The%20Rope\/8.1\/x86\/ZeptoLabUKLimited.CutTheRope_1.2.0.43_x86__sq9zxnwrk84pj.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Purple2\/v4\/57\/2e\/c3\/572ec341-c56a-00c6-7486-fe80c30d709c\/pr_source.png\/0x0ss-85.jpg",
         "featured": true
     },
@@ -285,11 +285,12 @@
         "publisher": "Coca Cola",
         "version": "1.1.1.0",
         "description": "Listen to your favorite radio station and enjoy your favorite drink. ",
-        "downloadUrl": "https://dankassassin368.com/Stuff/APPX/Retiled%20Project/Apptravaganza%21/Coca-Cola%20FM%20%28with%20the%20new%20logo%29/iltsoft.CocaColaFM_1.0.2.12_neutral__trjevbbeqqmgg.appx",
+        "downloadUrl": "https://dankassassin368.com/Stuff/APPX/Retiled%20Project/Apptravaganza%21/Coca-Cola%20FM%20%28with%20the%20new%20logo%29/iltsoft.CocaColaFM_1.0.2.12_neutral__tr",
         "iconUrl": "https:\/\/play-lh.googleusercontent.com\/XHxg6r6GeS5ru-0_-a2AaVkJrEyu9cKg_ubHPud7LEcXmWGgvCXt7UHRV7n0qYIcIcI",
-        "featured": false
+        "featured": "false"
+        
     },
-    {
+      {
         "id": "30",
         "name": "Bing Health (newRetiled)",
         "publisher": "Microsoft",
@@ -305,7 +306,7 @@
         "publisher": "VK.com",
         "version": "2.3.2.1",
         "description": "",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/VK\/C6965DD5.VK_2.3.2.1_x64__v422avzh127ra.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/q0.itc.cn\/q_70\/images03\/20240429\/82b1d541c2f447439cc792cfc6e06bdb.png",
         "featured": false
     },
@@ -315,7 +316,7 @@
         "publisher": "Microsoft",
         "version": "1.0.1.1.0",
         "description": "Watcyh tv",
-        "downloadUrl": "https://download.ru/g/T2PusUZG/u0PezSxlt634WVEYeIFTXA/1767250793?inline=false",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2009\/06\/bing_small.png",
         "featured": false
     },
@@ -324,8 +325,8 @@
         "name": "Collection of Windows Startup Sounds",
         "publisher": "NazumsLabs",
         "version": "1.1.0.8",
-        "description": "An Application which collected the old to newest windows startup sound",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Collection%20of%20Windows%20Startup%20Sounds\/37308NazmusLabs.CollectionofWindowsStartupSounds_1.1.0.8_neutral__rgt1746k2d010.appx",
+        "description": "An Application which collected the old to newest windows startup ",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com\/f\/f4c4498f-f0a5-4c50-aed5-5ac63c62a584\/dfhoib5-0b75d3b4-0a25-4c83-957f-18c197f99d4f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y0YzQ0OThmLWYwYTUtNGM1MC1hZWQ1LTVhYzYzYzYyYTU4NFwvZGZob2liNS0wYjc1ZDNiNC0wYTI1LTRjODMtOTU3Zi0xOGMxOTdmOTlkNGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.v9tpv4YXhF7SUAC4OzxGPTjtxnd3R6FtDtjA2snC0bk",
         "featured": false
     },
@@ -335,7 +336,7 @@
         "publisher": "ObjectSpaces",
         "version": "16.0.6.113",
         "description": "Manga app, similar to comicana",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Comix\/17923ObjectSpaces.ComicReader_16.0.6.113_x64__xbmd8rqpt9rw4.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/www.logotypes101.com\/logos\/368\/089733C0D182606DE1C052D4CCB078F7\/Comix.png",
         "featured": false
     },
@@ -345,7 +346,7 @@
         "publisher": "NikoVrdoljak",
         "version": "1.3.0.1",
         "description": "Manga app named Comicana",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Comicana\/31673NikoVrdoljak.Comicana_1.3.0.1_neutral__9t62e1techz4j.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/store-images.microsoft.com\/image\/apps.23272.9007199266608177.e8f0250a-c32f-482e-a77f-29a2d40268bf.987f1f96-9298-4504-9add-98ce3451e308",
         "featured": false
     },
@@ -355,7 +356,7 @@
         "publisher": "DiscoveryCommunications.In",
         "version": "1.2.0.0",
         "description": "World Geography app",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Discovery%20TLC\/DiscoveryCommunicationsIn.TLC_1.2.0.0_x64__qa3esp0sj9xn6.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/images.seeklogo.com\/logo-png\/19\/1\/discovery-channel-logo-png_seeklogo-195271.png?v=1963567967154963240",
         "featured": false
     },
@@ -365,7 +366,7 @@
         "publisher": "FrenchFry",
         "version": "2.3.4.862",
         "description": "None",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Cover\/FrenchFry.Cover_2.3.4.862_x64__a3mvwcjazefp4.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/icons.iconarchive.com\/icons\/dakirby309\/windows-8-metro\/256\/Folders-OS-Windows-8-Metro-icon.png",
         "featured": false
     },
@@ -375,7 +376,7 @@
         "publisher": "HuluLLC",
         "version": "0.8.3.0",
         "description": "Hulu Plus+ For Windows 8.1 (Offline)",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Hulu%20Plus\/HuluLLC.HuluPlus_0.8.3.0_x64__fphbd361v8tya.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/cdn.sitepreview.co\/assets\/uploads\/sites\/582\/2020\/02\/Hulu-logo.jpg",
         "featured": false
     },
@@ -385,7 +386,7 @@
         "publisher": "PublicationsInternationals",
         "version": "0.9.2.9",
         "description": "Cookbook app for windows 8+",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/iCookbook%20SE\/PublicationsInternational.iCookbookSE_0.9.2.9_neutral__d33n3f4t8bm20.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/static.vecteezy.com\/system\/resources\/previews\/004\/969\/907\/large_2x\/cooking-book-logo-icon-symbol-with-open-recipe-book-fork-and-spoon-in-simple-negative-space-style-logo-vector.jpg",
         "featured": false
     },
@@ -395,7 +396,7 @@
         "publisher": "AcerIncooperated",
         "version": "1.0.0.302",
         "description": "Acer exclusive app",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Gateway%20Explorer\/AcerIncorporated.GatewayExplorer_1.0.0.3002_neutral__48frkmn4z8aw4.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/71SPZbugUuL._AC_SL1168_.jpg",
         "featured": false
     },
@@ -405,7 +406,7 @@
         "publisher": "INGGroepNV",
         "version": "1.3.0.11",
         "description": "Bank app for windows 8.1",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/ING%20Bankieren\/INGGroepNV.INGBankieren_1.3.0.11_neutral__d7rbtgsvr9nv6.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/s3-storage.iculture.nl\/wp-content\/uploads\/2015\/07\/18040321\/ING-Bankieren-icoon.png",
         "featured": false
     },
@@ -415,7 +416,7 @@
         "publisher": "infoes",
         "version": "2.0.4.0",
         "description": "",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/infoes\/1508infoes.infoes_2.0.4.0_x86__4en94fzzz2q0e.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/tse3.mm.bing.net\/th\/id\/OIP.9QcPpRpdbtM0Q2td3CD0fwHaHa?w=980&h=980&rs=1&pid=ImgDetMain&o=7&rm=3",
         "featured": false
     },
@@ -425,7 +426,7 @@
         "publisher": "Koode",
         "version": "15.0.4",
         "description": "Are you also missing a live tile for your favorite news site? With News Live Tiles you can easily create them yourselves within seconds! The live tiles will update automatically with the latest news from the site.    - Notifications and live tile updates for new news items  - Support for almost all news sites  - Find the settings of your favorite site via the search function  - Pin sites from in the sample collection for free; for other sites an in-app purchase is required  - Universal app (Windows and Windows Phone versions): the in-app purchase is valid for both, and your collection is synced between both    Copyright on the news from the feeds remains at its owners. If you would like to have your feed removed from the in-app collection, please contact newslivetiles@outlook.com.",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Retiled%20Project\/Apptravaganza%21\/News%20Live%20Tiles\/52487Koode.56414CB813359_1.5.0.4_neutral__m1bqtb7san9p0.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/store-images.microsoft.com\/image\/apps.22228.9007199266683549.8b6068d8-7b19-4735-bdbe-ddd5d92a00a8.20b66e9b-b4ac-431c-a8b7-ad52dfd9ce07?h=310",
         "featured": false
     },
@@ -435,7 +436,7 @@
         "publisher": "E0469640",
         "version": "1.0.1.69",
         "description": "",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Jungle%20Mobilization\/E0469640.JungleMobilization_1.0.1.69_x64__5grkq8ppsgwt4.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/img.freepik.com\/premium-vector\/typography-logo-jungle-inspired-by-nature_799870-62.jpg?w=2000",
         "featured": false
     },
@@ -445,7 +446,7 @@
         "publisher": "E0469640",
         "version": "1.0.1.69",
         "description": "",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Jungle%20Mobilization\/E0469640.JungleMobilization_1.0.1.69_x64__5grkq8ppsgwt4.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/img.freepik.com\/premium-vector\/typography-logo-jungle-inspired-by-nature_799870-62.jpg?w=2000",
         "featured": false
     },
@@ -455,7 +456,7 @@
         "publisher": "Koode",
         "version": "15.0.4",
         "description": "Are you also missing a live tile for your favorite news site? With News Live Tiles you can easily create them yourselves within seconds! The live tiles will update automatically with the latest news from the site.    - Notifications and live tile updates for new news items  - Support for almost all news sites  - Find the settings of your favorite site via the search function  - Pin sites from in the sample collection for free; for other sites an in-app purchase is required  - Universal app (Windows and Windows Phone versions): the in-app purchase is valid for both, and your collection is synced between both    Copyright on the news from the feeds remains at its owners. If you would like to have your feed removed from the in-app collection, please contact newslivetiles@outlook.com.",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Retiled%20Project\/Apptravaganza%21\/News%20Live%20Tiles\/52487Koode.56414CB813359_1.5.0.4_neutral__m1bqtb7san9p0.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/store-images.microsoft.com\/image\/apps.22228.9007199266683549.8b6068d8-7b19-4735-bdbe-ddd5d92a00a8.20b66e9b-b4ac-431c-a8b7-ad52dfd9ce07?h=310",
         "featured": false
     },
@@ -465,7 +466,7 @@
         "publisher": "Liquid Daffodil",
         "version": "1.2.0.8",
         "description": "Monitor your endoplasmic reticulum on your PC. Nate & Frenchy's Life Coach for Windows 8 guide you through life by staying in tune with your Mystical Biorhythmic Epidermal Frequencies. It evaluate the density of your endoplasmic reticulum and give you advice on what you should do to increase your immediate life satisfaction and overall well-being.",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Retiled%20Project\/Apptravaganza%21\/Nate%20&%20Frenchy%27s%20Life%20Coach\/LiquidDaffodil.NateFrenchysLifeCoach_1.2.0.8_neutral__3sywn08pm3zd6.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/images.dwncdn.net\/images\/t_app-icon-s\/p\/7e9c7377-bdfd-47f5-9f43-b51ab07877c5\/3977199731\/31713_4-75901254-Foreman_13081819_6078_Icon.24983.png",
         "featured": false
     },
@@ -475,7 +476,7 @@
         "publisher": "Amazon.INC",
         "version": "1.0.1.40",
         "description": "Kindle for windows8",
-        "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Windows%208.1%20APPX%20Files\/Apps\/Kindle%20For%20Windows%208\/AMZNMobileLLC.KindleforWindows8_1.0.1.40_neutral__stfe6vwa9jnbp.appx",
+        "downloadUrl": "",
         "iconUrl": "https:\/\/clipground.com\/images\/amazon-kindle-logo-png-12.png",
         "featured": false
     },
