@@ -1022,7 +1022,7 @@
     },
     {
         "id": "103",
-        "name": "Visual C++ Libres for Consumer Preview (X86)",
+        "name": "app 103",
         "publisher": "Microsoft",
         "version": "110",
         "description": "cannot find icon",
@@ -1032,7 +1032,7 @@
     },
     {
         "id": "104",
-        "name": "Microsoft Visual C++ Libres (VCLibs) 120.0.21005 (X64)",
+        "name": "app 104",
         "publisher": "Microsoft",
         "version": "120",
         "description": "required appx dependencies",
@@ -1042,7 +1042,7 @@
     },
     {
         "id": "105",
-        "name": "Windows Javascript (9200)",
+        "name": "app 105",
         "publisher": "Microsoft",
         "version": "9200",
         "description": "required appx dependencies",
@@ -1052,7 +1052,7 @@
     },
     {
         "id": "106",
-        "name": "Piano (8102)",
+        "name": "App 106",
         "publisher": "Microsoft",
         "version": "1.1.1.0",
         "description": "IDK",
@@ -1062,7 +1062,7 @@
     },
     {
         "id": "107",
-        "name": "MoPod",
+        "name": "app 107",
         "publisher": "Microsoft",
         "version": "8.0.8102",
         "description": "Podcasts app (offline only)",
@@ -1082,7 +1082,7 @@
     },
     {
         "id": "109",
-        "name": "Zinio",
+        "name": "App 109",
         "publisher": "ZinioLLC",
         "version": "1.2.0.0",
         "description": "Still works, tested on 8.0",
@@ -1092,7 +1092,7 @@
     },
     {
         "id": "110",
-        "name": "Windows Javascript 2 V1.0",
+        "name": "app 110",
         "publisher": "Microsoft",
         "version": "9200",
         "description": "cannot find icon",
@@ -1102,7 +1102,7 @@
     },
     {
         "id": "111",
-        "name": "Windows Javascript 2 9431",
+        "name": "app 111",
         "publisher": "Microsoft",
         "version": "9431",
         "description": "cannot find icon",
@@ -1112,7 +1112,7 @@
     },
     {
         "id": "112",
-        "name": "GlyphPad",
+        "name": "app 112",
         "publisher": "QuixoticTheG",
         "version": "1.0.0.0",
         "description": "Literally just place shapes",
@@ -1122,18 +1122,18 @@
     },
     {
         "id": "113",
-        "name": "Nokia Music",
+        "name": "Mix radio",
         "publisher": "MixRadio Ltd",
-        "version": "1.4.0.5133",
+        "version": "1.0.0",
         "description": "",
-        "downloadUrl": "https:\/\/download.ru\/g\/UWUG4BNr\/Vub63OMdYe0sxhu7Skndqg\/1767186382?inline=false",
-        "iconUrl": "https:\/\/winblogs.thesourcemediaassets.com\/sites\/43\/2013\/06\/NokiaMusicIcon.png",
+        "downloadUrl": "",
+        "iconUrl": "",
         "featured": false
     },
     {
         "id": "114",
         "name": "Villager Series Companion",
-        "publisher": "QuixoticTheG",
+        "publisher": "QuixoticTheTrash",
         "version": "0.5.1.1",
         "description": "App to introduce you to the Villager Series!",
         "downloadUrl": "https:\/\/download.ru\/g\/Gk1LlF4P\/APdwrkVQyFBULjU6k3qR3A\/1767186380?inline=false",
@@ -1952,8 +1952,8 @@
     },
     {
         "id": "196",
-        "name": "AccuWeather For Windows 8 (x64)",
-        "publisher": "AccuWeather",
+        "name": "app 196",
+        "publisher": "idk",
         "version": "4.1.0.31",
         "description": "AccuWeather has the Superior Accuracy\u2122, custom views, and weather animations you love! It is fun-to-use, reliable, and will make all the difference in your day.  This award winning app is available in 27 languages. We designed it with you in mind because so many decisions are made based on the weather. You get a quick look at current weather conditions for the next 72 hours with an easy swipe to a calendar view of the forecasted conditions for each of the next 25 days \u2013 including the option to open up any of the 25 days for more weather detail!  You also get: \u2022 Severe weather notices to keep you ahead of the storm. \u2022 A Local Forecast Summary that gives you a quick brief of the most significant weather event forecasted for your location over the next several days. A Windows\u00ae app designed using Microsoft\u2019s Windows\u00ae 8.1 Interface with fluid screen resizing to the snap view, and large, medium, small and wide Live Tile support for all your favorite locations. The Tiles automatically peek and refresh with current forecasts and weather maps. \u2022 Current weather conditions update every 15 minutes with the very latest humidity percentages, visibility, UV index, wind speed, direction and wind gusts, and RealFeel\u00ae \u2013 AccuWeather\u2019s exclusive weather forecasting system that analyzes multiple weather conditions to determine how the local temperature actually feels. \u2022 Fully interactive, full-screen Bing Maps overlaid with AccuWeather\u2019s precise weather data, including U.S., Canadian, European, and Japanese radar.  Download AccuWeather for free and take advantage of the Superior Accuracy\u2122 and local weather information for your PC and tablet!",
         "downloadUrl": "https:\/\/dankassassin368.com\/Stuff\/APPX\/Retiled%20Project\/Apptravaganza%21\/AccuWeather\/AccuWeather%28x64%29.appx",
