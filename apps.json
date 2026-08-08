@@ -39,4 +39,14 @@
         "description": "Tired of going out only to find it raining, and wishing you knew the forecast? Download MSN Weather and enjoy!",
         "featured": true
     },
+    {
+        "id": "5",
+        "name": "AccuWeather(newRetiled)",
+        "publisher": "AccuWeather",
+        "version": "1.0.0.0",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/AccuWeather/AccuWeather%28x86,%20without%20reskin%29.appx",
+        "iconUrl": "",
+        "description": "Now you'll know the weather in real time",
+        "featured": true
+    },
 ]
