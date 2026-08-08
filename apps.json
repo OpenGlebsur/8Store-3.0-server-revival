@@ -62,7 +62,7 @@
     {
         "id": "7",
         "name": "Msn Money",
-        "publisher": "",
+        "publisher": "Miguel",
         "version": "1.0.0",
         "description": "Stay informed about the entire economy with MSN Money",
         "downloadUrl": "https://dl.retiled.xyz/newRetiled/x86/MSN/Win8.1%20RTM%20%282014u%29/Money/Microsoft.BingFinance_3.0.4.212_x86__8wekyb3d8bbwe.appx",
@@ -96,7 +96,7 @@
         "version": "1.0.0",
         "description": "",
         "downloadUrl": "https://dl.retiled.xyz/newRetiled/x86/MSN/Win8.1%20RTM%20%282014u%29/Health%20&%20Fitness/Microsoft.BingHealthAndFitness_3.0.4.212_x86__8wekyb3d8bbwe.appx",
-        "iconUrl": "",
+        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/MSN-Salud-App.png?raw=true",
         "featured": true
     },
 ]
