@@ -11,12 +11,12 @@
     },
     {
         "id": "2",
-        "name": "Fresh Paint",
-        "publisher": "Microsoft",
-        "version": "2.0.15133",
-        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/FreshPaint/",
-        "iconUrl": "https:\/\/store-images.microsoft.com\/image\/apps.37291.9007199266251806.241e6a77-946b-48f7-8269-e8d414751b65.edfec239-dd87-4ebd-9335-41cf617cebea",
-        "description": "Best Paint app!",
+        "name": "Msn food and drink",
+        "publisher": "Miguel",
+        "version": "1.0.0.",
+        "downloadUrl": "",
+        "iconUrl": "",
+        "description": "Best food app!",
         "featured": true
     },
     {
@@ -32,7 +32,7 @@
     {
         "id": "4",
         "name": "MSN Weather (newRetiled)",
-        "publisher": "Microsoft",
+        "publisher": "Miguel",
         "version": "1.0.0.0",
         "downloadUrl": "https://dl.retiled.xyz/newRetiled/8.1%20MSN%20apps%20from%20Windows%2010%20Builds/9926/Weather/Microsoft.BingWeather_3.0.4.249_x86__8wekyb3d8bbwe.appx",
         "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo5.scale-100.png?raw=true",
@@ -42,7 +42,7 @@
     {
         "id": "5",
         "name": "AccuWeather",
-        "publisher": "AccuWeather weather",
+        "publisher": "Miguel",
         "version": "1.0.0.0",
         "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/AccuWeather%20for%20Windows%208.0%20%28x64%20only%29/AccuWeather.AccuWeatherforWindows8_2.1.7.2_x64__8zz2pj9h1h1d8.appx",
         "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/images.png",
@@ -52,11 +52,21 @@
     {
         "id": "6",
         "name": "PaintPlay",
-        "publisher": "Microsoft devs",
+        "publisher": "Miguel",
         "version": "1.0.0.",
         "description": "paint and play!",
-        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/All%20DrayApps%20patched%20to%20remove%20update%20check/MetroMaps/MetroMaps1.0.0.0.appx",
-        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo.scale-100.png?raw=true",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/%22Fixed%22%208102%20Apps%20&%20Games/PaintPlay/",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "7",
+        "name": "Msn Money",
+        "publisher": "",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "",
+        "iconUrl": "",
         "featured": true
     },
 ]
