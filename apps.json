@@ -116,7 +116,7 @@
         "version": "1.0.0",
         "description": "News from Europe reaches Windows 8 and its Metro interface",
         "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/Euronews%20FR/30181HamdiKahloun.EuronewsFR_1.0.1.0_neutral__8crbc5ssn0c0c.appx",
-        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Euronews._2016_alternative_logo.png",
+        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Euronews._2016_alternative_logo.png?raw=true",
         "featured": true
     },
     {
@@ -148,6 +148,96 @@
         "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/%22Fixed%22%208102%20Apps%20&%20Games/Treehouse%20Stampede/treehouse_test3.appx",
         "iconUrl": "",
         "featured": false
+    },
+    {
+        "id": "16",
+        "name": "CNN for Windows 8",
+        "publisher": "Miguel",
+        "version": "1.0.0",
+        "description": "CNN is coming to Windows 8",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/CNN%20App%20for%20Windows/588E6FFA.CNNAppforWindows_1.2.3.0_neutral__cs8eyncph15zy.appx",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "",
+        "name": "",
+        "publisher": "",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "",
+        "name": "",
+        "publisher": "",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "",
+        "name": "",
+        "publisher": "",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "",
+        "name": "",
+        "publisher": "",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "",
+        "name": "",
+        "publisher": "",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "",
+        "name": "",
+        "publisher": "",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "",
+        "name": "",
+        "publisher": "",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "",
+        "name": "",
+        "publisher": "",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "",
+        "iconUrl": "",
+        "featured": true
     },
     {
         "id": "",
