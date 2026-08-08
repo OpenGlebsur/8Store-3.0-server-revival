@@ -14,7 +14,7 @@
         "name": "Msn food and drink",
         "publisher": "Miguel",
         "version": "1.0.0.",
-        "downloadUrl": "",
+        "downloadUrl": "https://dl.retiled.xyz/newRetiled/x86/MSN/Win8.1%20RTM%20%282014u%29/Food%20&%20Drink/Microsoft.BingFoodAndDrink_3.0.4.212_x86__8wekyb3d8bbwe.appx",
         "iconUrl": "",
         "description": "Best food app!",
         "featured": true
@@ -64,8 +64,38 @@
         "name": "Msn Money",
         "publisher": "",
         "version": "1.0.0",
+        "description": "Stay informed about the entire economy with MSN Money",
+        "downloadUrl": "https://dl.retiled.xyz/newRetiled/x86/MSN/Win8.1%20RTM%20%282014u%29/Money/Microsoft.BingFinance_3.0.4.212_x86__8wekyb3d8bbwe.appx",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "8",
+        "name": "Msn Sports",
+        "publisher": "Miguel",
+        "version": "1.0.0",
         "description": "",
-        "downloadUrl": "",
+        "downloadUrl": "https://dl.retiled.xyz/newRetiled/x86/MSN/Win8.1%20RTM%20%282014u%29/Sports/Microsoft.BingSports_3.0.4.212_x86__8wekyb3d8bbwe.appx",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "9",
+        "name": "Msn travel",
+        "publisher": "Miguel",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "https://dl.retiled.xyz/newRetiled/x86/MSN/Win8.1%20RTM%20%282014u%29/Travel/Microsoft.BingTravel_3.0.4.212_x86__8wekyb3d8bbwe.appx",
+        "iconUrl": "",
+        "featured": true
+    },
+    {
+        "id": "10",
+        "name": "Msn health",
+        "publisher": "Miguel",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "https://dl.retiled.xyz/newRetiled/x86/MSN/Win8.1%20RTM%20%282014u%29/Health%20&%20Fitness/Microsoft.BingHealthAndFitness_3.0.4.212_x86__8wekyb3d8bbwe.appx",
         "iconUrl": "",
         "featured": true
     },
