@@ -57,7 +57,7 @@
         "description": "paint and play!",
         "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/%22Fixed%22%208102%20Apps%20&%20Games/PaintPlay/",
         "iconUrl": "",
-        "featured": true
+        "featured": false
     },
     {
         "id": "7",
@@ -107,6 +107,56 @@
         "description": "the best sports on ESPN,Check out the latest sports news ",
         "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/ESPN%20%288.1%29/ESPN%20%288.1.appx",
         "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/images%20(1).png?raw=true",
+        "featured": true
+    },
+    {
+        "id": "12",
+        "name": "EuroNews",
+        "publisher": "Miguel",
+        "version": "1.0.0",
+        "description": "News from Europe reaches Windows 8 and its Metro interface",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/Euronews%20FR/30181HamdiKahloun.EuronewsFR_1.0.1.0_neutral__8crbc5ssn0c0c.appx",
+        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Euronews._2016_alternative_logo.png",
+        "featured": true
+    },
+    {
+        "id": "13",
+        "name": "Aircraft",
+        "publisher": "Miguel",
+        "version": "1.0.0",
+        "description": "A game idk",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/%22Fixed%22%208102%20Apps%20&%20Games/Air%20Craft%20/myplanet_test7.appx",
+        "iconUrl": "",
+        "featured": false
+    },
+    {
+        "id": "14",
+        "name": "Labyrinth",
+        "publisher": "Miguel",
+        "version": "1.0.0",
+        "description": "idk",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/%22Fixed%22%208102%20Apps%20&%20Games/Labyrinth/Labyrinth_test22.appx",
+        "iconUrl": "",
+        "featured": false
+    },
+    {
+        "id": "15",
+        "name": "Treehouse",
+        "publisher": "Miguel",
+        "version": "1.0.0",
+        "description": "unknown app",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/%22Fixed%22%208102%20Apps%20&%20Games/Treehouse%20Stampede/treehouse_test3.appx",
+        "iconUrl": "",
+        "featured": false
+    },
+    {
+        "id": "",
+        "name": "",
+        "publisher": "",
+        "version": "1.0.0",
+        "description": "",
+        "downloadUrl": "",
+        "iconUrl": "",
         "featured": true
     },
 ]
