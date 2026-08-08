@@ -35,7 +35,7 @@
         "publisher": "Microsoft",
         "version": "1.0.0.0",
         "downloadUrl": "https://dl.retiled.xyz/newRetiled/8.1%20MSN%20apps%20from%20Windows%2010%20Builds/9926/Weather/Microsoft.BingWeather_3.0.4.249_x86__8wekyb3d8bbwe.appx",
-        "iconUrl": "https://www.eightforums.com/threads/weather-store-app-shortcut-create-in-windows-8.16296/",
+        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Logo5.scale-100.png?raw=true",
         "description": "Tired of going out only to find it raining, and wishing you knew the forecast? Download MSN Weather and enjoy!",
         "featured": false
     },
@@ -76,7 +76,7 @@
         "version": "1.4.0.1",
         "description": "Devour all humans, create a bigger zombie horde, get achievements, and have fun! ",
         "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Games/Zombie%20Tsunami/",
-        "iconUrl": "",
+        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/Zombie_tsunami_app.png?raw=true",
         "featured": false
     },
     {
