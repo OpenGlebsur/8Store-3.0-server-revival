@@ -231,12 +231,12 @@
     },
     {
         "id": "24",
-        "name": "Cut the rope",
+        "name": "Cut The Rope",
         "publisher": "Miguel",
-        "version": "1.0.0",
+        "version": "1.2.0.23",
         "description": "Cut the string and guide the candy to the mouth of the adorable Om Nom.",
-        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/Cut%20The%20Rope/8.0/x86/ZeptoLabUKLimited.CutTheRope_1.1.0.33_x86__sq9zxnwrk84pj.appx",
-        "iconUrl": "",
+        "downloadUrl": "https://dl.retiled.xyz/Apptravaganza%21/Cut%20The%20Rope/8.1/x86/ZeptoLabUKLimited.CutTheRope_1.2.0.43_x86__sq9zxnwrk84pj.appx",
+        "iconUrl": "https://github.com/OpenGlebsur/8Store-3.0-server-revival/blob/main/cut-the-rope-logo.png?raw=true",
         "featured": true
     },
     {
